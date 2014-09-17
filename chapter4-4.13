@@ -1,0 +1,6 @@
+Counter-controlled repetition would be appropriate for calculating the sum of the first 100 positive integers because the number of repetitions is known in advance. 
+The program that performs this task could use a while repetition statement with a counter variable that takes on the values 1 to 100.
+The program could then add the current counter value to the total variable in each repetition of the loop. 
+Sentinel controlled repetition would be appropriate for calculating the sum of an arbitrary number of positive integers. 
+The program that performs this task could use a sentinel value of –1 to mark the end of data entry.
+The program could use a while repetition statement that totals positive integers from the user until the user enters the sentinel value.
