@@ -1,0 +1,7 @@
+ Dividing two integers results in: any fractional part of the calculation is lost .
+To avoid that outcomes, a programmer must temporarily treat these values as floating-point numbers in the calculation by using the unary cast. 
+As long as the (double) cast operator is applied to any variable in the calculation, the calculation will yield a double result which can be assigned to a double variable.
+
+
+
+ 
