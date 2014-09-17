@@ -1,0 +1,2 @@
+Control statements can be combined to one another by connecting the exit point of one to the entry point of the next. 
+Control statements also may be nested by placing one inside another.
