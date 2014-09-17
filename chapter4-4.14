@@ -1,0 +1,3 @@
+Pre incrementing a variable causes it to be incremented by 1, and then the new value of the variable is used in the expression in which it appears. 
+Post incrementing a variable causes the current value of the variable to be used in the expression in which it appears, and then the variable’s value is incremented by 1.
+Pre incrementing and post incrementing a variable have the same effect when the incrementing operation appears in a statement by itself.
